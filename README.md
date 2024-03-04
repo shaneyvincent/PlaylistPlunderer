@@ -1,3 +1,7 @@
+Playlist Plunderer: 
+Automate iTunes library organization with Shazam. Correct track info with minimal effort. #MusicOrganization #iTunes #Shazam
+
+
 requirements for app
 macOS 10.15.7 or higher
 blackhole for internal listening 
