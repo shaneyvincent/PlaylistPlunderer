@@ -1,0 +1,3 @@
+([('ShazamAutoGUI',
+   '/Users/Shaney/Downloads/PlaylistPlundererStandalone/PlaylistPlunderer/dist/ShazamAutoGUI',
+   'EXECUTABLE')],)
